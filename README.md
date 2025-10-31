@@ -344,26 +344,3 @@ pytest==7.4.3
 pytest-cov==4.1.0
 colorama==0.4.6
 ```
-
-## 📄 License
-
-MIT License - feel free to use this project for your resume and portfolio!
-
-## 👤 Author
-
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- Inspired by Google Search autocomplete
-- Algorithm design from "Introduction to Algorithms" (CLRS)
-- Thanks to the open-source community
-
----
-
-**⭐ If this project helped you, please star the repository!**
-
-*Built with ❤️ for Google STEP Internship Application*
